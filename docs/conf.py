@@ -1,4 +1,4 @@
-project = 'EEro Guide'
+project = 'Eset Guide'
 author = 'Your Name'
 release = '1.0'
 
